@@ -8,10 +8,6 @@
 
 - 👯 I’m looking to collaborate on [Projeckt_Map](https://github.com/kents00/Projeckt_Map.git)
 
-- 💬 Ask me about **Django,Noise Generation**
-
-- ⚡ Fun fact **I don't sleep**
-
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://stackoverflow.com/users/16382087" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16382087" height="30" width="40" /></a>
