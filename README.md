@@ -6,7 +6,7 @@
 [![Kent Edoloverio KoFi](https://img.shields.io/badge/Kofi-ff0000?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/kents_workof_art)
 [![Kent Edoloverio Deviantart](https://img.shields.io/badge/DEVIANTART-023020?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/kents001)
 
-I'm a 3D artist, blogger, modder, and complete programmer.
+I'm a 3D artist, blogger, modder, and I'm also acquiring new programming skills.
 
 For more information on 3D modeling methods as well as programming hints and suggestions, visit my [Ko-fi](https://ko-fi.com/kents_workof_art) and [Medium](https://medium.com/@kent_edoloverio).
 
