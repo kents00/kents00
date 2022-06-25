@@ -1,26 +1,12 @@
-### HELLO! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<h2> Hi 👋, I'm Kent Edoloverio </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kents00&label=Profile%20views&color=00ff1e&style=flat-square" alt="kents00" /> </p>
+[![Kent Edoloverio Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kent_edoloverio)
+[![Kent Edoloverio StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16382087)
+[![Kent Edoloverio Facebook](https://img.shields.io/badge/Facebook-3c5a99?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/toshi.nakimoto)
+[![Kent Edoloverio KoFi](https://img.shields.io/badge/Kofi-ff0000?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/kents_workof_art)
+[![Kent Edoloverio Deviantart](https://img.shields.io/badge/DEVIANTART-023020?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/kents001)
 
-- 🔭 I’m currently working on [Projeckt_Map](https://github.com/kents00/Projeckt_Map.git)
+I'm a 3D artist, blogger, modder, and complete programmer.
 
-- 🌱 I’m currently learning **Ruby,JavaScript,C#**
+For more information on 3D modeling methods as well as programming hints and suggestions, visit my [Ko-fi](https://ko-fi.com/kents_workof_art) and [Medium](https://medium.com/@kent_edoloverio).
 
-- 👯 I’m looking to collaborate on [Projeckt_Map](https://github.com/kents00/Projeckt_Map.git)
-
-🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://stackoverflow.com/users/16382087" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16382087" height="30" width="40" /></a>
-<a href="https://fb.com/toshi.nakimoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="unique.username.exist" height="30" width="40" /></a>
-<a href="https://instagram.com/no_name_exist_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="no_name_exist_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fluer_kun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fluer_kun" height="30" width="40" /></a>
-</p>
-
-🛠️ &nbsp;**Languages and Tools:**
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/alecive/flatwoken/256/Apps-Blender-icon.png" alt="blender" width="40" height="40"/> </a>
- <a href="https://www.adobe.com/sea/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/designbolts/retro-3d-adobe/256/Adobe-After-Effects-CC-icon.png" alt="after effects" width="40" height="40"/> </a>
- 
-
-&nbsp;**Support me at :**
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q8BW198)
