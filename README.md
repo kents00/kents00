@@ -9,9 +9,3 @@
 I'm a self taught 3D artist, blogger, modder, and I'm also acquiring programming skills.
 
 For more information on 3D modeling methods as well as programming hints and suggestions, visit my [Ko-fi](https://ko-fi.com/kents_workof_art) and [Medium](https://medium.com/@kent_edoloverio).
-
-<div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=kents00&show_icons=true&theme=dark" />
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kents00&theme=dark&langs_count=8&layout=compact" />
-</div>
