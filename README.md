@@ -16,6 +16,6 @@ For more information on 3D modeling methods as well as programming hints and sug
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kents00&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com?user=kents00&theme=github-dark-dimmed&date_format=M%20j%5B%2C%20Y%5D)
 
 
