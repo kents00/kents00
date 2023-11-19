@@ -16,6 +16,7 @@ For more information on 3D modeling ideas as well in programming, visit my [Ko-f
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-![](https://streak-stats.demolab.com?user=kents00&theme=github-dark-dimmed&date_format=M%20j%5B%2C%20Y%5D)
+[![kents00's GitHub | Stats](https://stats.quine.sh/kents00/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=kents00)
+[![kents00's Stack Overflow | Stats](https://stats.quine.sh/kents00/stack-overflow?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=kents00)
 
 
