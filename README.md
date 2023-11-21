@@ -17,6 +17,6 @@ For more information on 3D modeling ideas as well in programming, visit my [Ko-f
 
 
 [![kents00's GitHub | Stats](https://stats.quine.sh/kents00/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=kents00)
-[![kents00's Stack Overflow | Stats](https://stats.quine.sh/kents00/stack-overflow?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=kents00)
+[![kents00's GitHub | Dependencies](https://stats.quine.sh/kents00/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kents00)
 
 
