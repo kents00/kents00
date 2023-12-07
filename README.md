@@ -5,7 +5,7 @@
 [![Kent Edoloverio Gumroad](https://img.shields.io/badge/Gumroad-C70039?style=for-the-badge&logo=gumroad&logoColor=white)](https://kentedoloverio.gumroad.com/)
 [![Kent Edoloverio Deviantart](https://img.shields.io/badge/DEVIANTART-023020?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/kents001)
 
-I'm  Kent Edoloverio and I am an enthusiast of design and development. My major interest lies in developing open-source projects which are primarily creating addons using Blender, a 3D software that provides artists with a platform for designing interactive pieces from scratch. In addition to this, I also creating Web Applications written on Django and Flask. 
+I'm  Kent Edoloverio and I am an enthusiast of design and development. My major interest lies in developing open-source projects which are primarily creating addons using Blender, a 3D software that provides artists with a platform for designing interactive pieces from scratch. In addition to this, I also creating Web Applications written in Django and Flask. 
 
 For more information on 3D modeling ideas as well in programming, visit my [Ko-fi](https://ko-fi.com/kents_workof_art) and [Medium](https://medium.com/@kent_edoloverio).
 
@@ -14,7 +14,6 @@ For more information on 3D modeling ideas as well in programming, visit my [Ko-f
 ![Obsidian](https://img.shields.io/badge/obsidian-%23000000.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-EA7600.svg?style=for-the-badge&logo=blender&logoColor=white) ![Aseprite](https://img.shields.io/badge/aseprite-ebebeb.svg?style=for-the-badge&logo=aseprite&logoColor=black) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 
 [![kents00's GitHub | Stats](https://stats.quine.sh/kents00/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=kents00)
 [![kents00's Stack Overflow | Stats](https://stats.quine.sh/kents00/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kents00)
