@@ -5,7 +5,7 @@
 [![Kent Edoloverio Gumroad](https://img.shields.io/badge/Gumroad-C70039?style=for-the-badge&logo=gumroad&logoColor=white)](https://kentedoloverio.gumroad.com/)
 [![Kent Edoloverio Deviantart](https://img.shields.io/badge/DEVIANTART-023020?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/kents001)
 
-I'm  Kent Edoloverio and I am an enthusiast of design and development. My major interest lies in developing open-source projects which are primarily creating addons using Blender, a 3D software that provides artists with a platform for designing interactive pieces from scratch. In addition to this, I also creating Web Applications written on Django and Flask. 
+I'm  Kent Edoloverio and I am an enthusiast of design and development. My major interest lies in developing open-source projects which are primarily creating addons using Blender, 3D software that provides artists with a platform for designing interactive pieces from scratch. In addition to this, I also creating Web Applications written on Django and Flask. 
 
 For more information on 3D modeling ideas as well in programming, visit my [Ko-fi](https://ko-fi.com/kents_workof_art) and [Medium](https://medium.com/@kent_edoloverio).
 
