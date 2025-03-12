@@ -15,7 +15,8 @@ For more information on 3D modeling ideas as well in programming, visit my [Ko-f
 ![Blender](https://img.shields.io/badge/blender-EA7600.svg?style=for-the-badge&logo=blender&logoColor=white) ![Aseprite](https://img.shields.io/badge/aseprite-ebebeb.svg?style=for-the-badge&logo=aseprite&logoColor=black) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-[![kents00's GitHub | Stats](https://stats.quine.sh/kents00/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=kents00)
-[![kents00's Stack Overflow | Stats](https://stats.quine.sh/kents00/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kents00)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kents00&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+
 
 
