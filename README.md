@@ -5,9 +5,9 @@
 [![Kent Edoloverio Gumroad](https://img.shields.io/badge/Gumroad-C70039?style=for-the-badge&logo=gumroad&logoColor=white)](https://knty.gumroad.com/)
 [![Kent Edoloverio Deviantart](https://img.shields.io/badge/DEVIANTART-023020?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/kents001)
 
-I'm  Kent Edoloverio and I am an enthusiast of design and development. My major interest lies in developing open-source projects which are primarily creating addons using Blender, 3D software that provides artists with a platform for designing interactive pieces from scratch. In addition to this, I also creating Web Applications written on Django and Flask. 
+I'm  Kent Edoloverio and I am an enthusiast of design and development. My major interest lies in developing open-source projects.
 
-For more information on 3D modeling ideas as well in programming, visit my [Ko-fi](https://ko-fi.com/kents_workof_art) and [Medium](https://medium.com/@kent_edoloverio).
+For more information about me, visit my [Ko-fi](https://ko-fi.com/kents_workof_art) and [Medium](https://medium.com/@kent_edoloverio).
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
 
