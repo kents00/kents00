@@ -5,6 +5,8 @@
 [![Kent Edoloverio Gumroad](https://img.shields.io/badge/Gumroad-C70039?style=for-the-badge&logo=gumroad&logoColor=white)](https://knty.gumroad.com/)
 [![Kent Edoloverio Deviantart](https://img.shields.io/badge/DEVIANTART-023020?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/kents001)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kents00&theme=dark)
+
 I'm  Kent Edoloverio and I am an enthusiast of design and development. My major interest lies in developing open-source projects.
 
 For more information about me, visit my [Ko-fi](https://ko-fi.com/kents_workof_art) and [Medium](https://medium.com/@kent_edoloverio).
